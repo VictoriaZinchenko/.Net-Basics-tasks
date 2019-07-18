@@ -1,0 +1,11 @@
+C:\Users\Vika Zinchenko\source\repos\HomeWork1_.NET\bin\Debug\netcoreapp2.1\HomeWork1_.NET.deps.json
+C:\Users\Vika Zinchenko\source\repos\HomeWork1_.NET\bin\Debug\netcoreapp2.1\HomeWork1_.NET.runtimeconfig.json
+C:\Users\Vika Zinchenko\source\repos\HomeWork1_.NET\bin\Debug\netcoreapp2.1\HomeWork1_.NET.runtimeconfig.dev.json
+C:\Users\Vika Zinchenko\source\repos\HomeWork1_.NET\bin\Debug\netcoreapp2.1\HomeWork1_.NET.dll
+C:\Users\Vika Zinchenko\source\repos\HomeWork1_.NET\bin\Debug\netcoreapp2.1\HomeWork1_.NET.pdb
+C:\Users\Vika Zinchenko\source\repos\HomeWork1_.NET\obj\Debug\netcoreapp2.1\HomeWork1_.NET.csprojAssemblyReference.cache
+C:\Users\Vika Zinchenko\source\repos\HomeWork1_.NET\obj\Debug\netcoreapp2.1\HomeWork1_.NET.csproj.CoreCompileInputs.cache
+C:\Users\Vika Zinchenko\source\repos\HomeWork1_.NET\obj\Debug\netcoreapp2.1\HomeWork1_.NET.AssemblyInfoInputs.cache
+C:\Users\Vika Zinchenko\source\repos\HomeWork1_.NET\obj\Debug\netcoreapp2.1\HomeWork1_.NET.AssemblyInfo.cs
+C:\Users\Vika Zinchenko\source\repos\HomeWork1_.NET\obj\Debug\netcoreapp2.1\HomeWork1_.NET.dll
+C:\Users\Vika Zinchenko\source\repos\HomeWork1_.NET\obj\Debug\netcoreapp2.1\HomeWork1_.NET.pdb
